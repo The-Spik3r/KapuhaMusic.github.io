@@ -1,0 +1,28 @@
+.info{
+    display: flex;
+    padding: 15px 0 0 0;
+}
+.info img{
+    width: 120px;
+}
+.info {
+    background-color: #fff;
+}
+.most img{
+    width: 18px;
+    margin: 10px;
+}
+.info p{
+    display: flex;
+    align-items: flex-end;
+    margin: 1rem;
+}
+hr{
+    color: #ffffff;
+}
+.mor{
+    display: flex;
+}
+.mor img{
+    width: 3px;
+}

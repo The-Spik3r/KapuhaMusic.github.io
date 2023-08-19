@@ -1,0 +1,18 @@
+.nav > ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+li{
+    margin: 15px 0px 0 0;
+}
+.lownav{
+    height: 100px;
+}
+img{
+    width: 28px;
+}
+.music{
+    height: 28px;
+}
